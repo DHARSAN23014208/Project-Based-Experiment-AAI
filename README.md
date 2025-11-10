@@ -3,7 +3,7 @@
 ## Author Information
 - **Name:** DHARSAN KUMAR R
 - **Register No:** 212223240028
-- **Date:** November 9, 2025
+- **Date:** November 10, 2025
 
 ## Project Overview
 This project analyzes the sentiment of Facebook posts using NLTK's VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analyzer. It processes posts from an Excel file and provides sentiment scores indicating whether each post expresses positive, negative, or neutral sentiment.
